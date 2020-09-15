@@ -1,0 +1,11 @@
+Package: telegram-webapp
+Version: 1.0
+Architecture: all
+Maintainer: Ripr Lutuk <ripr@lutuk.id>
+Installed-Size: 781
+Depends: brave-browser
+Section: utility
+Priority: optional
+Homepage: http://www.thefanclub.co.za
+Description: Telegram Web Application
+ Launch icon for Telegram Web Application.

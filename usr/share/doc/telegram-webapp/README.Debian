@@ -1,0 +1,19 @@
+overGrive 1.0 Beta
+--------------------
+overGrive will assist in the installation and setup of Google Drive on your Ubuntu desktop. 
+overGrive consists of the following components:
+A GUI installation will guide you through the the installation process and setup Google Drive in your home folder.
+You will be able to access your Google Drive files locally* as well as synchronize your files with your Google Drive online. (* excluding Google Docs)
+Auto Sync - overGrive keeps your Google Drive synchronized automatically by detecting changes in your local Google Drive folder. New files and folders will be uploaded to your Google Drive automatically after a few seconds. 
+The overGrive Application Indicator supports both light and dark desktop themes.
+On Screen notifications of Google Drive activity.
+
+Installation
+------------
+launch overgrive from the dash menu after install or from command line with : python /opt/thefanclub/overgrive/overgrive
+
+Support
+-------
+Project Homepage can be found at : http://www.thefanclub.co.za/overgrive
+
+ -- The Fan Club<info@thefanclub.co.za>  Sat, 29 Mar 2014 22:22:22 +0200

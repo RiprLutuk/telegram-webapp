@@ -1,0 +1,21 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Telegram
+GenericName=Telegram
+Comment=Telegram desktop webapp
+#Exec=webapp-container --store-session-cookies --webappUrlPatterns=https?://*.whatsapp.com/* --user-agent-string='Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36' https://web.whatsapp.com %u
+Exec=/opt/brave.com/brave/brave-browser --app=https://web.telegram.org/
+Terminal=false
+Type=Application
+StartupNotify=true
+MimeType=text/plain;
+Icon=telegram
+Categories=Network;Application;
+Keywords=telegram;webapp;
+X-Ubuntu-Gettext-Domain=Telegram
+StartupWMClass=web.telegram.org
+
+
+
+
+
