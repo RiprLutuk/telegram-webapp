@@ -1,3 +1,3 @@
 # telegram-webapp
 
-only for brave browser
+only brave browser
